@@ -10,7 +10,7 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/mohamed3sman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your.facebook.username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
@@ -19,11 +19,27 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 👨‍💻 About Me
+
+- 🧠 Currently working with **Flutter + Dart** for scalable mobile apps  
+- 🧩 Interested in **clean architecture**, **modular code**, and **SOLID principles**  
+- 🌐 Integrating real-time features with **WebSockets**  
+- 📦 Working with **Firebase**, **SQLite**, and **Google Maps SDK**  
+- 💸 Implementing **in-app payments & gateways**  
+- 📲 Handling **push notifications** and **live deployments with Shorebird**   
+- 💬 Ping me for anything Flutter, architecture, Shorebird, or just to say hi  
+- 📬 Reach me on Telegram → [ᗰ𝙊⚡ᕼ𝙰𝙈𝙀𝘿 ☯ 𝙊𝙎𝙈𝘼𝙉(https://t.me/mohamed3sman)  
+- ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories** 😆  
+
+---
+
+### 🚀 Tools & Tech I Use
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)
 ![Shorebird](https://img.shields.io/badge/Shorebird-0080FF?style=flat)
@@ -38,13 +54,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-```dart
+dart
 // Flutter Developer Toolkit
 
 class FlutterDeveloper {
   const toolkit = {
     "Languages": {"Dart"},
-    "StateManagement": {"GetX"},
+    "StateManagement": {"Bloc, GetX, Provider"},
     "Architecture": {"OOP", "SOLID", "Design Patterns"},
     "Realtime": {"WebSockets"},
     "Services": {"Firebase", "Google Maps", "Payment Gateways", "Notifications"},
