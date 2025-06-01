@@ -18,17 +18,23 @@
 ```dart
 class FlutterDeveloper {
   final List<String> skills = [
-    'State Management (Bloc, Riverpod, Provider)',
+    'State Management (Bloc, GetX, Provider)',
     'Firebase Integration (Auth, Firestore, Cloud Functions)',
+    'OOP & SOLID Principles',
+    'Design Patterns (BLoC, MVVM, Singleton)',
+    'WebSockets & Real-time Communication',
+    'Google Maps & Location Services',
+    'Payment Gateways (Stripe, Razorpay, In-App)',
+    'Push Notifications (FCM, Local)',
+    'Shorebird for Hot Updates',
     'Custom UI/Animations',
     'Clean Architecture',
     'CI/CD Pipelines',
     'RESTful APIs',
-    'GraphQL',
-    'Testing (Unit, Widget, Integration)'
+    'GraphQL'
   ];
   
   void buildApp() {
-    print('Building beautiful, performant cross-platform apps!');
+    print('Building enterprise-grade Flutter applications!');
   }
 }
