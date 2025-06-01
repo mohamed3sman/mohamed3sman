@@ -1,40 +1,51 @@
-<div align="center">
-  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
+<div align="center" width="50">
 
-# Flutter Developer | Mobile Architect
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat&logo=telegram)](https://t.me/yourhandle)
+<details>
+<p><strong><summary> Busy coding & Vibing to 🎧</summary></strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/spxd007)
 
 </div>
 
-## 🚀 Flutter Expertise
+---
+
+### 🚀 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)
+![Shorebird](https://img.shields.io/badge/Shorebird-0080FF?style=flat&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23ffb703?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-%23fb8500?style=flat)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-%234a4e69?style=flat)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23ff006e?style=flat)
+![Payment Gateways](https://img.shields.io/badge/Payment%20Gateways-%231abc9c?style=flat)
+![Notifications](https://img.shields.io/badge/Notifications-%23ffa500?style=flat)
 
 ```dart
+// Flutter Developer Toolkit
+
 class FlutterDeveloper {
-  final List<String> skills = [
-    'State Management (Bloc, GetX, Provider)',
-    'Firebase Integration (Auth, Firestore, Cloud Functions)',
-    'OOP & SOLID Principles',
-    'Design Patterns (BLoC, MVVM, Singleton)',
-    'WebSockets & Real-time Communication',
-    'Google Maps & Location Services',
-    'Payment Gateways (Stripe, Razorpay, In-App)',
-    'Push Notifications (FCM, Local)',
-    'Shorebird for Hot Updates',
-    'Custom UI/Animations',
-    'Clean Architecture',
-    'CI/CD Pipelines',
-    'RESTful APIs',
-    'GraphQL'
-  ];
-  
-  void buildApp() {
-    print('Building enterprise-grade Flutter applications!');
-  }
+  const toolkit = {
+    "Languages": {"Dart"},
+    "Architecture": {"OOP", "SOLID", "Design Patterns"},
+    "StateManagement": {"GetX"},
+    "Realtime": {"WebSockets"},
+    "Services": {"Firebase", "Google Maps", "Payment Gateways", "Notifications"},
+    "Tools": {"Shorebird", "VSCode", "Git"},
+    "DB": {"SQLite"},
+    "Platform": {"Android", "iOS", "Web"}
+  };
 }
