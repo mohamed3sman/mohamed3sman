@@ -54,13 +54,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-dart
+```dart
 // Flutter Developer Toolkit
 
 class FlutterDeveloper {
   const toolkit = {
     "Languages": {"Dart"},
-    "StateManagement": {"Bloc, GetX, Provider"},
+    "StateManagement": {"GetX"},
     "Architecture": {"OOP", "SOLID", "Design Patterns"},
     "Realtime": {"WebSockets"},
     "Services": {"Firebase", "Google Maps", "Payment Gateways", "Notifications"},
