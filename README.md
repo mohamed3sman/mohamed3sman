@@ -12,7 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/spxd007)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/mohamed3sman)
 
 </div>
 
@@ -27,7 +27,7 @@
 - 💸 Implementing **in-app payments & gateways**  
 - 📲 Handling **push notifications** and **live deployments with Shorebird**   
 - 💬 Ping me for anything Flutter, architecture, Shorebird, or just to say hi  
-- 📬 Reach me on Telegram → [丂𝙋⚡乂𝘿](https://t.me/mohamed3sman)  
+- 📬 Reach me on Telegram → [ᗰ𝙊⚡ᕼ𝙰𝙈𝙀𝘿 ☯ 𝙊𝙎𝙈𝘼𝙉(https://t.me/mohamed3sman)  
 - ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories** 😆  
 
 ---
@@ -58,7 +58,7 @@
 class FlutterDeveloper {
   const toolkit = {
     "Languages": {"Dart"},
-    "StateManagement": {"GetX"},
+    "StateManagement": {"Bloc, GetX, Provider"},
     "Architecture": {"OOP", "SOLID", "Design Patterns"},
     "Realtime": {"WebSockets"},
     "Services": {"Firebase", "Google Maps", "Payment Gateways", "Notifications"},
