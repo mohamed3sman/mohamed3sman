@@ -25,10 +25,9 @@
 - 🌐 Integrating real-time features with **WebSockets**  
 - 📦 Working with **Firebase**, **SQLite**, and **Google Maps SDK**  
 - 💸 Implementing **in-app payments & gateways**  
-- 📲 Handling **push notifications** and **live deployments with Shorebird**  
-- 🐧 I also love tinkering with **GNU/Linux** setups  
+- 📲 Handling **push notifications** and **live deployments with Shorebird**   
 - 💬 Ping me for anything Flutter, architecture, Shorebird, or just to say hi  
-- 📬 Reach me on Telegram → [丂𝙋⚡乂𝘿](https://t.me/spxd007)  
+- 📬 Reach me on Telegram → [丂𝙋⚡乂𝘿](https://t.me/mohamed3sman)  
 - ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories** 😆  
 
 ---
