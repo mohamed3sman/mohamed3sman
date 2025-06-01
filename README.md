@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Currently working with **Flutter + GetX** for scalable mobile apps  
+- 🧠 Currently working with **Flutter + Dart** for scalable mobile apps  
 - 🧩 Interested in **clean architecture**, **modular code**, and **SOLID principles**  
 - 🌐 Integrating real-time features with **WebSockets**  
 - 📦 Working with **Firebase**, **SQLite**, and **Google Maps SDK**  
