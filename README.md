@@ -18,7 +18,22 @@
 
 ---
 
-### 🧰 Tech Stack
+### 👨‍💻 About Me
+
+- 🧠 Currently working with **Flutter + GetX** for scalable mobile apps  
+- 🧩 Interested in **clean architecture**, **modular code**, and **SOLID principles**  
+- 🌐 Integrating real-time features with **WebSockets**  
+- 📦 Working with **Firebase**, **SQLite**, and **Google Maps SDK**  
+- 💸 Implementing **in-app payments & gateways**  
+- 📲 Handling **push notifications** and **live deployments with Shorebird**  
+- 🐧 I also love tinkering with **GNU/Linux** setups  
+- 💬 Ping me for anything Flutter, architecture, Shorebird, or just to say hi  
+- 📬 Reach me on Telegram → [丂𝙋⚡乂𝘿](https://t.me/spxd007)  
+- ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories** 😆  
+
+---
+
+### 🚀 Tools & Tech I Use
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
