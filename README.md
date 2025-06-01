@@ -16,9 +16,9 @@
 
 </div>
 
+---
 
-
-### 🚀 Tools & Tech I Use
+### 🧰 Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
@@ -39,24 +39,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ```dart
-
-
----
-
-### 👨‍💻 About Me
-
-- 🧠 Currently working with **Flutter + GetX** for scalable mobile apps  
-- 🧩 Interested in **clean architecture**, **modular code**, and **SOLID principles**  
-- 🌐 Integrating real-time features with **WebSockets**  
-- 📦 Working with **Firebase**, **SQLite**, and **Google Maps SDK**  
-- 💸 Implementing **in-app payments & gateways**  
-- 📲 Handling **push notifications** and **live deployments with Shorebird**  
-- 🐧 I also love tinkering with **GNU/Linux** setups  
-- 💬 Ping me for anything Flutter, architecture, Shorebird, or just to say hi  
-- 📬 Reach me on Telegram → [丂𝙋⚡乂𝘿](https://t.me/spxd007)  
-- ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories** 😆  
-
----
 // Flutter Developer Toolkit
 
 class FlutterDeveloper {
@@ -71,7 +53,3 @@ class FlutterDeveloper {
     "Platform": {"Android", "iOS", "Web"}
   };
 }
-
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/> </div>
