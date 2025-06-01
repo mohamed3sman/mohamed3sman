@@ -36,7 +36,9 @@
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/GetX-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/GetX-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)
 ![Shorebird](https://img.shields.io/badge/Shorebird-0080FF?style=flat)
