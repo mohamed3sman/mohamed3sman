@@ -1,71 +1,104 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-<details>
-<p><strong><summary>Busy coding & Vibing to 🎧</summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/mohamed3sman)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your.facebook.username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
+<h1 align="center">Hi 👋, I'm Mohamed Osman</h1>
+<h3 align="center">Flutter Developer | Building scalable & production-ready mobile apps</h3>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🧠 Currently working with **Flutter + Dart** for scalable mobile apps  
-- 🧩 Interested in **clean architecture**, **modular code**, and **SOLID principles**  
-- 🌐 Integrating real-time features with **WebSockets**  
-- 📦 Working with **Firebase**, **SQLite**, and **Google Maps SDK**  
-- 💸 Implementing **in-app payments & gateways**  
-- 📲 Handling **push notifications** and **live deployments with Shorebird**   
-- 💬 Ping me for anything Flutter, architecture, Shorebird, or just to say hi  
-- 📬 Reach me on Telegram → [ᗰ𝙊⚡ᕼ𝙰𝙈𝙀𝘿 ☯ 𝙊𝙎𝙈𝘼𝙉(https://t.me/mohamed3sman)  
-- ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories** 😆  
+## 🚀 About Me
+- 💻 Flutter Developer experienced in building and shipping real-world apps  
+- 📦 Published apps on Google Play & App Store  
+- ⚙️ Focused on clean architecture, performance & scalability  
+- 🔄 Automating workflows using CI/CD  
 
 ---
 
-### 🚀 Tools & Tech I Use
+## 🔭 I’m currently working on
+- Building scalable Flutter apps with clean architecture  
+- Improving performance & release pipelines  
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-%23F05033.svg?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)
-![Shorebird](https://img.shields.io/badge/Shorebird-0080FF?style=flat)
-![WebSockets](https://img.shields.io/badge/WebSockets-005C97?style=flat)
-![Payment Gateways](https://img.shields.io/badge/Payment_Gateways-34a853?style=flat)
-![Notifications](https://img.shields.io/badge/Notifications-FFB300?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-%23F59E0B?style=flat)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-%23F97316?style=flat)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-%234B5563?style=flat)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+---
 
-```dart
-// Flutter Developer Toolkit
+## 👯 I’m looking to collaborate on
+- Real-world Flutter apps with solid architecture  
+- Projects involving complex UI, APIs, or performance optimization  
 
-class FlutterDeveloper {
-  const toolkit = {
-    "Languages": {"Dart"},
-    "StateManagement": {"GetX"},
-    "Architecture": {"OOP", "SOLID", "Design Patterns"},
-    "Realtime": {"WebSockets"},
-    "Services": {"Firebase", "Google Maps", "Payment Gateways", "Notifications"},
-    "Tools": {"VSCode", "Git", "Shorebird"},
-    "Database": {"SQLite"},
-    "Platform": {"Android", "iOS", "Web"}
-  };
-}
+---
+
+## 🌱 I’m currently learning
+- Advanced system design for mobile apps  
+- CI/CD optimization & automation  
+- Writing more testable and maintainable code  
+
+---
+
+## 💬 Ask me about
+- Flutter (Bloc, Cubit, Clean Architecture)  
+- App publishing (Google Play & App Store)  
+- CI/CD & GitHub Actions  
+- Shorebird (code push & hot updates)  
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter & Dart**
+- **State Management:** Bloc / Cubit / GetX  
+- **Local Storage:** Hive  
+- **Backend & APIs:** REST APIs, Firebase  
+- **CI/CD:** GitHub Actions  
+- **Tools:** Shorebird, Git, Postman  
+
+---
+
+## 🚀 What I’ve Done
+- 📱 Built & published multiple Flutter apps on Google Play & App Store  
+- ⚙️ Implemented CI/CD pipelines to automate build & release process  
+- 🚀 Used Shorebird for faster updates without full app releases  
+- 💾 Built offline-first apps using local caching (Hive)  
+- 🔔 Integrated push notifications using Firebase  
+
+---
+
+## 📱 Featured Projects
+
+### 🍔 Menuhat App (Talabat-like App)
+- Scalable food ordering app handling user sessions & real-time orders  
+- Smooth UX focused on fast browsing and ordering  
+- 📦 Published on Google Play & App Store  
+
+---
+
+### 🧾 Smart Cashier App
+- POS system for managing sales, invoices & daily operations  
+- Designed for performance and usability in real-world scenarios  
+- 📦 Published on Google Play & App Store  
+
+---
+
+### 💰 Expense Tracker App
+- Voice-based expense input 🎤  
+- Offline-first using Hive  
+- Focused on speed & simplicity  
+
+---
+
+### ⚽ Live Matches App
+- Real-time match tracking  
+- Push notifications using Firebase  
+- Optimized for performance  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed3sman&show_icons=true" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+I enjoy optimizing apps more than building them from scratch.
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/mohamed-osman-54237b259/
+- Email: mohamedabdoosman12gmail.com
