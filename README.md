@@ -89,7 +89,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed3sman&show_icons=true" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed3sman&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed3sman&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
 </p>
 
 ---
