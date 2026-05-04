@@ -32,7 +32,12 @@ I obsess over:
 
 ## 🛠️ Tech Stack
 
-<img src="./tech-stack.svg" width="100%"/>
+- Flutter & Dart  
+- State Management: Bloc / Cubit / GetX  
+- Local Storage: Hive  
+- APIs: REST APIs, Firebase  
+- CI/CD: GitHub Actions, Shorebird  
+- Tools: Git, Postman  
 
 ---
 
