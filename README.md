@@ -95,7 +95,7 @@ Personal finance app with voice-powered expense entry. Designed around zero-late
 ## 📊 Impact Snapshot
 
 ```
-📱   3+ production apps live on Google Play & App Store
+📱  3+ production apps live on Google Play & App Store
 ⚙️  CI/CD pipelines eliminating manual release overhead
 💾  Offline-first systems with Hive caching strategies
 🔔  Scalable push notification systems via Firebase
