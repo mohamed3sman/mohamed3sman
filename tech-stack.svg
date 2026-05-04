@@ -1,0 +1,94 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; rx: 10; }
+      .label { font: 500 10px 'Segoe UI', sans-serif; fill: #484f58; letter-spacing: 0.08em; }
+      .item-main { font: 500 13px 'Segoe UI', sans-serif; fill: #e6edf3; }
+      .item-sub { font: 400 13px 'Segoe UI', sans-serif; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="280" rx="12" class="bg"/>
+
+  <!-- MOBILE -->
+  <rect x="16" y="16" width="120" height="100" rx="8" fill="#161b22"/>
+  <text x="28" y="36" class="label">MOBILE</text>
+  <circle cx="28" cy="54" r="3" fill="#3b82f6"/>
+  <text x="38" y="58" class="item-main">Flutter</text>
+  <circle cx="28" cy="74" r="3" fill="#3b82f6"/>
+  <text x="38" y="78" class="item-main">Dart</text>
+
+  <!-- STATE -->
+  <rect x="148" y="16" width="120" height="118" rx="8" fill="#161b22"/>
+  <text x="160" y="36" class="label">STATE</text>
+  <circle cx="160" cy="54" r="3" fill="#3b82f6"/>
+  <text x="170" y="58" class="item-main">Bloc</text>
+  <circle cx="160" cy="74" r="3" fill="#3b82f6"/>
+  <text x="170" y="78" class="item-main">Cubit</text>
+  <circle cx="160" cy="94" r="3" fill="#484f58"/>
+  <text x="170" y="98" class="item-sub">GetX</text>
+
+  <!-- BACKEND -->
+  <rect x="280" y="16" width="148" height="118" rx="8" fill="#161b22"/>
+  <text x="292" y="36" class="label">BACKEND</text>
+  <circle cx="292" cy="54" r="3" fill="#3b82f6"/>
+  <text x="302" y="58" class="item-main">Firebase</text>
+  <circle cx="292" cy="74" r="3" fill="#3b82f6"/>
+  <text x="302" y="78" class="item-main">REST APIs</text>
+  <circle cx="292" cy="94" r="3" fill="#484f58"/>
+  <text x="302" y="98" class="item-sub">Google Maps</text>
+
+  <!-- PAYMENTS -->
+  <rect x="440" y="16" width="120" height="100" rx="8" fill="#161b22"/>
+  <text x="452" y="36" class="label">PAYMENTS</text>
+  <circle cx="452" cy="54" r="3" fill="#484f58"/>
+  <text x="462" y="58" class="item-sub">Stripe</text>
+  <circle cx="452" cy="74" r="3" fill="#484f58"/>
+  <text x="462" y="78" class="item-sub">Paymob</text>
+
+  <!-- STORAGE -->
+  <rect x="572" y="16" width="120" height="100" rx="8" fill="#161b22"/>
+  <text x="584" y="36" class="label">STORAGE</text>
+  <circle cx="584" cy="54" r="3" fill="#3b82f6"/>
+  <text x="594" y="58" class="item-main">Hive</text>
+  <circle cx="584" cy="74" r="3" fill="#484f58"/>
+  <text x="594" y="78" class="item-sub">SharedPrefs</text>
+
+  <!-- DEVOPS -->
+  <rect x="16" y="148" width="220" height="116" rx="8" fill="#161b22"/>
+  <text x="28" y="168" class="label">DEVOPS</text>
+  <circle cx="28" cy="186" r="3" fill="#3b82f6"/>
+  <text x="38" y="190" class="item-main">GitHub Actions</text>
+  <circle cx="28" cy="206" r="3" fill="#3b82f6"/>
+  <text x="38" y="210" class="item-main">Shorebird OTA</text>
+  <circle cx="28" cy="226" r="3" fill="#484f58"/>
+  <text x="38" y="230" class="item-sub">Git</text>
+
+  <!-- TOOLS -->
+  <rect x="248" y="148" width="180" height="116" rx="8" fill="#161b22"/>
+  <text x="260" y="168" class="label">TOOLS</text>
+  <circle cx="260" cy="186" r="3" fill="#484f58"/>
+  <text x="270" y="190" class="item-sub">Postman</text>
+  <circle cx="260" cy="206" r="3" fill="#484f58"/>
+  <text x="270" y="210" class="item-sub">VS Code</text>
+  <circle cx="260" cy="226" r="3" fill="#484f58"/>
+  <text x="270" y="230" class="item-sub">Figma</text>
+
+  <!-- ARCHITECTURE -->
+  <rect x="440" y="148" width="252" height="116" rx="8" fill="#161b22"/>
+  <text x="452" y="168" class="label">ARCHITECTURE</text>
+  <circle cx="452" cy="186" r="3" fill="#3b82f6"/>
+  <text x="462" y="190" class="item-main">Clean Architecture</text>
+  <circle cx="452" cy="206" r="3" fill="#3b82f6"/>
+  <text x="462" y="210" class="item-main">Offline-first</text>
+  <circle cx="452" cy="226" r="3" fill="#484f58"/>
+  <text x="462" y="230" class="item-sub">CI/CD Pipelines</text>
+
+  <!-- legend -->
+  <circle cx="16" cy="270" r="3" fill="#3b82f6"/>
+  <text x="26" y="274" font-family="'Segoe UI', sans-serif" font-size="10" fill="#484f58">primary</text>
+  <circle cx="80" cy="270" r="3" fill="#484f58"/>
+  <text x="90" y="274" font-family="'Segoe UI', sans-serif" font-size="10" fill="#484f58">secondary</text>
+</svg>
